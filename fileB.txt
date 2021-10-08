@@ -1,5 +1,6 @@
-
-
-
-
+Line 1 in B
+line 2 in B
+line 3 in B dee dee dee
+Appending line to start of B
 Line 5 in file B
+
